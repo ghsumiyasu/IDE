@@ -1,4 +1,4 @@
-# Instalando uma serie de IDE
+# Instalando a IDE
 
 Ferramentas de edição para codigos
 
