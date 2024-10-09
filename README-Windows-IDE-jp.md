@@ -2,5 +2,5 @@
 
 ウィンドウズで使用するアイディーイーリスト
 
-## [IntellJ](https://github.com/ghsumiyasu/IDE/blob/main/README-IDE-IntellJ-jp.md)
-## [Android Studio](https://github.com/ghsumiyasu/IDE/blob/main/README-IDE-IntellJ-jp.md)
+## [IntelliJ](https://github.com/ghsumiyasu/IDE/blob/main/README-IDE-IntelliJ-jp.md)
+## [Android Studio](https://github.com/ghsumiyasu/IDE/blob/main/README-IDE-Android-Studio-jp.md)
