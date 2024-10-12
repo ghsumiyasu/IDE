@@ -1,6 +1,6 @@
-# IntelliJ設定
+# インテリジェイアイディア設定
 
-WindowsでのIntelliJ IDEAの構成
+ウィンドウズでのインテリジェイアイディアの構成
 
 <div align="center">
 絵 01 - 「Continue」をクリックします

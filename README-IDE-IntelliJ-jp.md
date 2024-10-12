@@ -1,6 +1,6 @@
-# IntelliJの基本
+# インテリジェイアイディアの基本
 
-IntelliJを設定する
+インテリジェイアイディアを設定する
 
 ## [ダウンロード](https://github.com/ghsumiyasu/IDE/blob/main/README-IntelliJ-Download-jp.md)
 ## [インストール](https://github.com/ghsumiyasu/IDE/blob/main/README-IntelliJ-Instalacao-jp.md)

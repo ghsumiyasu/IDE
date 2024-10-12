@@ -1,6 +1,6 @@
-# Android Studioのダウンロード
+# アンドロイドスタジオのダウンロード
 
-ウィンドウズでのAndroid Studioアイディーイーのダウンロード
+ウィンドウズでのアンドロイドスタジオアイディーイーのダウンロード
 
 <div align="center">
 絵 01 - GoogleでAndroid Studioサイトを検索する
