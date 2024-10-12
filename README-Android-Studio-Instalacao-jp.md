@@ -1,6 +1,6 @@
-# IntelliJ のインストール
+# Android Studioのインストール
 
-IntelliJのインストール
+ウィンドウズでのAndroid Studioのダウンロード
 
 <div align="center">
 絵 01 - 右クリックします
@@ -39,13 +39,13 @@ IntelliJのインストール
 ![](Imagens/IDE-IntelliJ-Instalacao-Img06.png)
 
 <div align="center">
-絵 07 - インストール中
+絵 07 - 「次へ」をクリックします
 </div>
 
 ![](Imagens/IDE-IntelliJ-Instalacao-Img07.png)
 
 <div align="center">
-絵 08 -「Finish」をクリックします
+絵 08 - 「Finish」をクリックします
 </div>
 
 ![](Imagens/IDE-IntelliJ-Instalacao-Img08.png)
