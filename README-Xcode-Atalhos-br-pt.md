@@ -2,7 +2,8 @@
 Teclas combinadas que facilitam a edição do codigo
 
 <div align="center">
-Figura 01 - Linha completa - command(⌘)+Shift+(→)
+Linha completa
+### Figura 01 - command(⌘)+Shift+(→)
 </div>
 
 ![](Imagens/IDE-Xcode-Atalhos-Img01.png)
