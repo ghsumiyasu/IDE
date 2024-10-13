@@ -1,38 +1,32 @@
 # Mac の Xcode ショートカット
 コード編集を容易にする組み合わせキー
 
-<div align="center">
-絵 01 - Linha completa - command(⌘)+Shift+(→)
-</div>
+## Linha completa
+### 絵 01 - command(⌘)+Shift+(→)
 
 ![](Imagens/IDE-Xcode-Atalhos-Img01.png)
 
-<div align="center">
-絵 02 - Palavra - Option+Shift+(→)
-</div>
+## Palavra 
+### 絵 02- Option+Shift+(→)
 
 ![](Imagens/IDE-Xcode-Atalhos-Img02.png)
 
-<div align="center">
-絵 03 - Multiplas linhas - Shift+(↑)
-</div>
+## Multiplas linhas
+### 絵 03 - Shift+(↑)
 
 ![](Imagens/IDE-Xcode-Atalhos-Img03.png)
 
-<div align="center">
-絵 04 - Move bloco - Option+command(⌘)+({)ou(})
-</div>
+## Move bloco 
+### 絵 04 - Option+command(⌘)+({)ou(})
 
 ![](Imagens/IDE-Xcode-Atalhos-Img04.png)
 
-<div align="center">
-絵 05 - Multiplo cursores - Shift+Control+(↑)+(↓)
-</div>
+## Multiplo cursores 
+### 絵 05 - Shift+Control+(↑)+(↓)
 
 ![](Imagens/IDE-Xcode-Atalhos-Img05.png)
 
-<div align="center">
-絵 06 - Tab - command(⌘)+({)ou(})
-</div>
+## Tab 
+### 絵 06 - command(⌘)+({)ou(})
 
 ![](Imagens/IDE-Xcode-Atalhos-Img06.png)

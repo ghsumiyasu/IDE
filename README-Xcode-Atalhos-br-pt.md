@@ -6,32 +6,27 @@ Teclas combinadas que facilitam a edição do codigo
 
 ![](Imagens/IDE-Xcode-Atalhos-Img01.png)
 
-<div align="center">
-Figura 02 - Palavra - Option+Shift+(→)
-</div>
+## Palavra 
+### Figura 02- Option+Shift+(→)
 
 ![](Imagens/IDE-Xcode-Atalhos-Img02.png)
 
-<div align="center">
-Figura 03 - Multiplas linhas - Shift+(↑)
-</div>
+## Multiplas linhas
+### Figura 03 - Shift+(↑)
 
 ![](Imagens/IDE-Xcode-Atalhos-Img03.png)
 
-<div align="center">
-Figura 04 - Move bloco - Option+command(⌘)+({)ou(})
-</div>
+## Move bloco 
+### Figura 04 - Option+command(⌘)+({)ou(})
 
 ![](Imagens/IDE-Xcode-Atalhos-Img04.png)
 
-<div align="center">
-Figura 05 - Multiplo cursores - Shift+Control+(↑)+(↓)
-</div>
+## Multiplo cursores 
+### Figura 05 - Shift+Control+(↑)+(↓)
 
 ![](Imagens/IDE-Xcode-Atalhos-Img05.png)
 
-<div align="center">
-Figura 06 - Tab - command(⌘)+({)ou(})
-</div>
+## Tab 
+### Figura 06 - command(⌘)+({)ou(})
 
 ![](Imagens/IDE-Xcode-Atalhos-Img06.png)
