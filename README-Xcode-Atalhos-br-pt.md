@@ -1,4 +1,4 @@
-# Atalhos no Xcode no Mac
+# Teclas de atalhos Xcode
 Teclas combinadas que facilitam a edição do codigo
 
 <div align="center">
