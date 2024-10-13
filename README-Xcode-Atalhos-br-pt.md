@@ -1,10 +1,8 @@
 # Teclas de atalhos Xcode
 Teclas combinadas que facilitam a edição do codigo
 
-<div align="center">
-Linha completa
+## Linha completa
 ### Figura 01 - command(⌘)+Shift+(→)
-</div>
 
 ![](Imagens/IDE-Xcode-Atalhos-Img01.png)
 
