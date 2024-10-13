@@ -2,7 +2,7 @@
 
 Ferramenta projetada para maximizar a produtividade do desenvolvedor
 
-# アイディーイー統合開発環境
+# 統合開発環境(IDE)
 
 開発者の生産性を最大化するように設計されたツール
 
