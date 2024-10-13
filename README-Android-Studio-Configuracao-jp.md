@@ -15,37 +15,37 @@
 ![](Imagens/IDE-Android-Studio-Configuracao-Img02.png)
 
 <div align="center">
-絵 03 - 「Next」をクリックします
+絵 03 - 「次へ」をクリックします
 </div>
 
 ![](Imagens/IDE-Android-Studio-Configuracao-Img03.png)
 
 <div align="center">
-絵 04 - 「Next」をクリックします
+絵 04 - 「次へ」をクリックします
 </div>
 
 ![](Imagens/IDE-Android-Studio-Configuracao-Img04.png)
 
 <div align="center">
-絵 05 - 「Next」をクリックします
+絵 05 - 「次へ」をクリックします
 </div>
 
 ![](Imagens/IDE-Android-Studio-Configuracao-Img05.png)
 <div align="center">
 
-絵 06 - 「Next」をクリックします
+絵 06 - 「次へ」をクリックします
 </div>
 
 ![](Imagens/IDE-Android-Studio-Configuracao-Img06.png)
 
 <div align="center">
-絵 07 - 「Finish」をクリックします
+絵 07 - 「完了」をクリックします
 </div>
 
 ![](Imagens/IDE-Android-Studio-Configuracao-Img07.png)
 
 <div align="center">
-絵 08 - 「Finish」をクリックします
+絵 08 - 「完了」をクリックします
 </div>
 
 ![](Imagens/IDE-Android-Studio-Configuracao-Img08.png)
@@ -56,7 +56,7 @@
 ![](Imagens/IDE-Android-Studio-Configuracao-Img09.png)
 
 <div align="center">
-絵 10 - 「Finish」をクリックします
+絵 10 - 「完了」をクリックします
 </div>
 
 ![](Imagens/IDE-Android-Studio-Configuracao-Img10.png)

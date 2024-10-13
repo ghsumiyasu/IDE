@@ -3,13 +3,13 @@
 ウィンドウズでのインテリジェイアイディアのダウンロード
 
 <div align="center">
-絵 01 - GoogleでIntelliJ Siteサイトを検索する
+絵 01 - グーグルでインテリジェイアイディアサイトを検索する
 </div>
 
 ![](Imagens/IDE-IntelliJ-Download-Img01.png)
 
 <div align="center">
-絵 02 - IntelliJを管理するJetBrains社
+絵 02 - インテリジェイアイディアを管理するジェットブレインズ社
 </div>
 
 ![](Imagens/IDE-IntelliJ-Download-Img02.png)
@@ -27,7 +27,7 @@
 ![](Imagens/IDE-IntelliJ-Download-Img04.png)
 
 <div align="center">
-絵 05 - ウィンドウズ用IntelliJ
+絵 05 - ウィンドウズ用インテリジェイアイディア
 </div>
 
 ![](Imagens/IDE-IntelliJ-Download-Img05.png)

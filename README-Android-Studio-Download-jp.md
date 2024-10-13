@@ -3,13 +3,13 @@
 ウィンドウズでのアンドロイドスタジオアイディーイーのダウンロード
 
 <div align="center">
-絵 01 - GoogleでAndroid Studioサイトを検索する
+絵 01 - グーグルでアンドロイドスタジオサイトを検索する
 </div>
 
 ![](Imagens/IDE-Android-Studio-Download-Img01.png)
 
 <div align="center">
-絵 02 - Googleが提供するAndroidプラットフォーム
+絵 02 - グーグルが提供するアンドロイドプラットフォーム
 </div>
 
 ![](Imagens/IDE-Android-Studio-Download-Img02.png)

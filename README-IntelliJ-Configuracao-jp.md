@@ -3,7 +3,7 @@
 ウィンドウズでのインテリジェイアイディアの構成
 
 <div align="center">
-絵 01 - 「Continue」をクリックします
+絵 01 - 「続行」をクリックします
 </div>
 
 ![](Imagens/IDE-IntelliJ-Configuracao-Img01.png)

@@ -1,6 +1,6 @@
-# ウィンドウズ用アイディーイー
+# ウィンドウズ用統合開発環境(IDE)
 
-ウィンドウズで使用するアイディーイーリスト
+ウィンドウズで使用する統合開発環境(IDE)リスト
 
-## [インテリジェイ アイディア](https://github.com/ghsumiyasu/IDE/blob/main/README-IDE-IntelliJ-jp.md)
-## [アンドロイド スタジオ](https://github.com/ghsumiyasu/IDE/blob/main/README-IDE-Android-Studio-jp.md)
+## [インテリジェイアイディア](https://github.com/ghsumiyasu/IDE/blob/main/README-IDE-IntelliJ-jp.md)
+## [アンドロイドスタジオ](https://github.com/ghsumiyasu/IDE/blob/main/README-IDE-Android-Studio-jp.md)
